@@ -7,6 +7,7 @@
 - Implemented a data pipeline that will train and predict using random-forests, support vector machines(SVM), and KNN supervised learning algorithms. 
 - Defined important metrics such as accuracy, precision, recall, F-score to evaluate the performance of above mentioned machine learning models and choose a model to work with appropriately.
 - Performed model tuning using grid search for the final chosen model.
+- Also, implemented feature_importances_ attribute for feature selection/extraction in the final model
 
 
 # Description
